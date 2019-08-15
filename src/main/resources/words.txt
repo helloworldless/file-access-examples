@@ -1,0 +1,4 @@
+computer
+curtain
+cucumber
+carthage
